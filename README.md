@@ -1,5 +1,5 @@
 # gulugulu_res
- ![当日推荐个股](http://m.qpic.cn/psc?/f91868c1-3537-4663-b8a7-1dd9d3e564f4/TmEUgtj9EK6.7V8ajmQrEDMqkW.xDqPO26ahMqloYSARIy*q0mNF65oWUdPWH4qwIC.mAndwCM57i8apGP9PWMIu7shE8L19ALANVRas*nU!/b&bo=CwI9AQAAAAADFwc!&rf=viewer_4)
+ ![当日推荐个股](http://m.qpic.cn/psc?/f91868c1-3537-4663-b8a7-1dd9d3e564f4/bqQfVz5yrrGYSXMvKr.cqdpai1B2cNeejbySnM43oyO*CmysB*eCdBWN*qzGyeUnEmYMtxQF8H8Xp2iKhVmvi7m6FmrK80TmeL23.ZGvhBY!/b&bo=CwI9AQAAAAADBxc!&rf=viewer_4)
  
 研报所属分析师介绍与历史回测：    
 （1）来自东北证券的分析师安永平,主要分析行业为软件服务。
