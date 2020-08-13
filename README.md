@@ -63,3 +63,8 @@
   
          分析该分析师最近的三篇研报在30日内产生收益的情况，选择的研报距离现在应当大于30个交易日。
   
+TO DO:
+
+分析师之前买入股票的k线图与标注（基于pyecharts）
+  
+ ![当日推荐个股](http://tiebapic.baidu.com/forum/w%3D580/sign=c9d7755f4443fbf2c52ca62b807fca1e/6f9610e83901213fb7851e8b43e736d12e2e95be.jpg)
