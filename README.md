@@ -68,3 +68,10 @@ TO DO:
 分析师之前买入股票的k线图与标注（基于pyecharts）
   
  ![当日推荐个股](http://tiebapic.baidu.com/forum/w%3D580/sign=c9d7755f4443fbf2c52ca62b807fca1e/6f9610e83901213fb7851e8b43e736d12e2e95be.jpg)
+分析师研报的月度行业分布
+
+ ![当日推荐个股](http://tiebapic.baidu.com/forum/w%3D580/sign=4c593f09cac451daf6f60ce386fc52a5/60844baea40f4bfbac613903144f78f0f63618bf.jpg)
+ 
+ 分析师研报的月度研报数量与当前沪深300指数情况
+
+ ![当日推荐个股](http://tiebapic.baidu.com/forum/w%3D580/sign=6557249a4566d0167e199e20a72ad498/49e2124e78f0f736f34feb561d55b319eac413bf.jpg)
